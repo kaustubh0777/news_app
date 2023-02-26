@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": null,
+      "title": "Mahua Moitra raises Delhi Cricket Association issue: ‘Non-sporty sons of…' - Hindustan Times",
+      "description": "Mahua Moitra raises Delhi Cricket Association issue: ‘Non-sporty sons of…'  Hindustan TimesView Full coverage on Google News",
+      "url": "https://accounts.google.com/ServiceLogin?hl=en-US&amp;continue=https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9tYWh1YS1tb2l0cmEtcmFpc2VzLWRlbGhpLWNyaWNrZXQtYXNzb2NpYXRpb24taXNzdWUtbm9uLXNwb3J0eS1zb25zLW9mLTEwMTY3NzMxNzc5NjM4OS5odG1s0gGJAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL21haHVhLW1vaXRyYS1yYWlzZXMtZGVsaGktY3JpY2tldC1hc3NvY2lhdGlvbi1pc3N1ZS1ub24tc3BvcnR5LXNvbnMtb2YtMTAxNjc3MzE3Nzk2Mzg5LWFtcC5odG1s?oc%3D5&amp;gae=cb-",
+      "urlToImage": null,
+      "publishedAt": "2023-02-25T09:40:49+00:00",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Growing up gay in a religious household",
+      "description": "England cricketer Katherine Sciver-Brunt has known her sexuality since a young age, but her upbringing in a religious household meant that for a long time she struggled to accept who she is.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/64665943",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1121B/production/_128717107_p0f4r35d.jpg",
+      "publishedAt": "2023-02-25T07:07:13.1140116Z",
+      "content": "England cricketer Katherine Sciver-Brunt has known her sexuality since a young age, but her upbringing in a religious household meant that for a long time she struggled to accept who she is. \r\nNow ma… [+180 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
