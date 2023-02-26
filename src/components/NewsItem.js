@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 
 export class NewsItem extends Component {
+
   render() {
-    let {title,description,imageurl}=this.props
+    let {title,description,imageurl,newsUrl}=this.props
     return (
      
       <div className="my-3">
@@ -13,7 +14,7 @@ export class NewsItem extends Component {
             <p className="card-text">
              {description}
             </p>
-            <a href="/newsdetail" className="btn btn-primary btn-sm">
+            <a href={newsUrl} target="_blank" className="btn btn-primary btn-sm">
               Read More
             </a>
           </div>
