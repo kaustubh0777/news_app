@@ -4,7 +4,7 @@ import React, { Component } from "react";
 export default class Navbar extends Component {
   render() {
     return (
-        <nav className="navbar navbar-expand-lg bg-body-tertiary">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               News App
@@ -35,6 +35,14 @@ export default class Navbar extends Component {
                     About
                   </a>
                 </li>
+                <li className="nav-item"><a className="nav-link" href="/about">Categories</a></li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>business</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>entertainment</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>general</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>health</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>science</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>sports</li>
+                <li className="nav-item"><a className="nav-link" href="/about"></a>technology</li>
                 <li className="nav-item">
                   <a className="nav-link" aria-current="page" href="/">
                     Contact
